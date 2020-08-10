@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
-title: Welcome to Erick's page!
+title: Erick Jara's Portfolio
+author: Erick Jara
+email: erick_jara@alumni.brown.edu
 description: Feel free to bookmark this to keep an eye on my project updates
+github_username: efjara
+
+show_excerpts: true 
+
