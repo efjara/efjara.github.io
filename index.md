@@ -1,16 +1,16 @@
 ---
 theme: jekyll-theme-cayman
-title: Erick Jara's Portfolio
+title: Erick Jara
 author: Erick Jara
 email: erick_jara@alumni.brown.edu
-description: Feel free to bookmark this to keep an eye on my project updates
+description: Porfolio
 
 twitter_username:  your-twitter-handle 
 github_username: efjara
 
 show_excerpts: true 
 ---
-Welcome to my professional page
+## Welcome to my professional page
 
 I will showcase some of my projects here.
 
